@@ -6,8 +6,6 @@
 
 - 💬 **Ask me about anything, I'm happy to help.**
 
-- 📫 **How to reach me: pakvindt@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/pavelkvindt" target="blank"><img align="center" src="https://camo.githubusercontent.com/4372711458d3deb1bee9eb122cb991fc8afecd1789ead2e409249e8cb4d44708/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38332f54656c656772616d5f323031395f4c6f676f2e7376672f3132303070782d54656c656772616d5f323031395f4c6f676f2e7376672e706e67" alt="telegram" height="40" width="40" margin-right="40px" /></a>
